@@ -30,13 +30,13 @@ document.querySelectorAll(".track").forEach(track => {
 
 // Solo marcos, ya no usamos personajes
 const frames = [
-  "characters/HOBI BACKGROUND.png",
-  "characters/SUGA BACKGROUND.png",
-  "characters/JIMIN BACKGROUND.png",
-  "characters/TAE BACKGROUND.png",
-  "characters/JK BACKGROUND.png",
-  "characters/RM BACKGROUND.png",
-  "characters/JIN BACKGROUND.png"
+  "HOBI BACKGROUND.png",
+  "SUGA BACKGROUND.png",
+  "JIMIN BACKGROUND.png",
+  "TAE BACKGROUND.png",
+  "JK BACKGROUND.png",
+  "RM BACKGROUND.png",
+  "JIN BACKGROUND.png"
 ];
 
 let currentFrame = 0;
